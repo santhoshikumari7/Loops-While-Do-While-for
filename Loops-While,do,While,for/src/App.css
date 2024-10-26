@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+button{
+  background-color: cornflowerblue;
+  margin: 3px;
+  border: 2px solid brown;
+}
